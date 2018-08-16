@@ -76,7 +76,7 @@ header li:hover{
 
 .titulo{
 
-	font-size: 4rem;
+	font-size: 3rem;
 	text-align: center;
 	text-shadow: 0px 2px 3px #555;
 
@@ -135,9 +135,6 @@ footer{
 	color: #FCFFF5;
 	padding-bottom: 30px;
 	padding-top: 25px;
-	display: flex;
-	align-items: center;
-	flex-direction: column;
 
 }
 
